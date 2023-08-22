@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>content_copy_white_24dp.svg</file>
+  </qresource>
+</RCC>

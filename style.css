@@ -1,0 +1,40 @@
+QWidget {
+    background-color: #1e1e1e;
+    font-size: 13pt;
+}
+
+QPushButton {
+    color: white;
+    border: none;
+    padding: 5px;
+    background-color: #2a2a2a;
+    border-radius: 5px;
+}
+
+QPushButton::checked {
+    background-color: #2d5bd4;
+}
+
+QPushButton::pressed {
+    background-color: #205BD4;
+}
+
+QLineEdit {
+    border: none;
+    border-radius: 5px;
+    color: #d8d8d8;
+    font-size: 14pt;
+    font-weight: bold;
+    background-color: #404040;
+    padding: 5px;
+}
+
+QSpinBox {
+    border: none;
+    border-radius: 5px;
+    color: #d8d8d8;
+    font-size: 14pt;
+    font-weight: bold;
+    background-color: #404040;
+    padding: 5px;
+}
